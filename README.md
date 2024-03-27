@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 📫 How to reach me: calm.wang@hotmail.com
+- ⚡ Fun fact: ...
+
+  
+<a href="/">
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calmw&theme=github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calmw&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=calmw&layout=compact&exclude_repo=Android_Homework,rinchannowww.github.io&langs_count=8" />
+</a>
